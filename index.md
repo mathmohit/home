@@ -65,6 +65,8 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 
 ## Participation in Schools/Workshops/Conferences:
 
+- [11th Asian Workshop on Symmetric Key Cryptography](https://askworkshop.github.io/ask2024/), Kolkata, India 14-17 December 2024.
+- [Asiacrypt 2024](https://asiacrypt.iacr.org/2024/), Kolkata, India 09-13 December 2024.
 - [The 9th International Workshop on Boolean Functions and their Applications](https://boolean.w.uib.no/bfa-2024/), Dubrovnik, Croatia 09-13 September 2024.
 - [SEquences and Their Applications (SETA-2024)](https://seta-2024.github.io/index.html), Colchester, United Kingdom 01-05 July 2024.
 - [The 8th International Workshop on Boolean Functions and their Applications](https://boolean.w.uib.no/bfa-2023/), Voss, Norway 03-08 September 2023.
