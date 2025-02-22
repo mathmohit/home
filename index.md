@@ -50,7 +50,7 @@
     </style>
 </head>
 <body>
-    <div class="header"> Mohit Pal </div>
+    
     
     <div class="navbar">
         <a href="#home">Home</a>
