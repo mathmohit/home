@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Postdoctoral Scholar - Mathematics</title>
+    <title>Mohit Pal</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -51,7 +50,7 @@
     </style>
 </head>
 <body>
-    <div class="header">Postdoctoral Scholar - Mathematics</div>
+    <div class="header">Postdoctoral</div>
     
     <div class="navbar">
         <a href="#home">Home</a>
