@@ -50,7 +50,7 @@
     </style>
 </head>
 <body>
-    <div class="header">Postdoctoral</div>
+    <div class="header"> </div>
     
     <div class="navbar">
         <a href="#home">Home</a>
