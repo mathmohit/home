@@ -68,7 +68,7 @@
         <div class="dropdown">
             <button class="dropbtn">Menu ▼</button>
             <div class="dropdown-content">
-                <a href="#option1">Option 1</a>
+                <a href="#option1">About Me</a>
                 <a href="#option2">Option 2</a>
                 <a href="#option3">Option 3</a>
             </div>
