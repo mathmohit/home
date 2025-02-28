@@ -27,8 +27,8 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 
 ## Publication (in reverse chronological order):
 
-- Mohit Pal, On cryptographic properties of a class of power permutations in odd characteristic, In: Nikova S., Panario D. (eds.) [Arithmetic of Finite Fields - 10th International Workshop, WAIFI 2024](http://waifi.org/2024/accepted_papers.html), Ottawa, Canada, June 10-12, 2024. (To appear)
-
+- Mohit Pal, [On cryptographic properties of a class of power permutations in odd characteristic](https://doi.org/10.1007/978-3-031-81824-0_7), In: Petkova-Nikova, S., Panario, D. (eds) _Arithmetic of Finite Fields (WAIFI 2024)_. Lecture Notes in Computer Science, vol 15176, pp 99--115, Springer, Cham (2025).
+  
 - Mohit Pal, Pantelimon Stănică, [A connection between the boomerang uniformity and the extended differential in odd characteristic and applications](https://doi.org/10.3934/amc.2024059), _Adv. Math. Commun._  (2025).
 
 - Lilya Budaghyan, Mohit Pal, [Arithmetization-oriented APN Permutations](https://doi.org/10.1007/s10623-024-01487-7), _Des. Codes Cryptogr._  (2024).
