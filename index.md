@@ -18,7 +18,7 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 - Dec'21-Mar'22, Project Fellow, [Indian Institute of Technology Jammu, India](https://www.iitjammu.ac.in/).
 - Feb'17-Nov'17, Project Fellow, [Harish-Chandra Research Institute Allahabad, India](http://www.hri.res.in/).
 
-## TEACHING EXPERIENCE
+## Teaching Experience:
 
 - INF-143A: Applied Cryptography for undergraduate and masters level (no. of students: 84), Jan-May 2024, University of Bergen, Norway.
 
