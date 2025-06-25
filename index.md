@@ -54,15 +54,17 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 
 - Daniele Bartoli, Mohit Pal, Pantelimon Stănică, Tommaso Toccotelli, [A proof of a conjecture on trivariate permutations](https://arxiv.org/abs/2410.23097), ArXiv.
 
-- Kirpa Garg, Sartaj Ul Hasan, Chunlei Li, Hridesh Kumar, Mohit Pal, [Permutation polynomials over finite fields from low-degree rational functions] (https://arxiv.org/abs/2503.20982v2), ArXiv.
+- Kirpa Garg, Sartaj Ul Hasan, Chunlei Li, Hridesh Kumar, Mohit Pal, [Permutation polynomials over finite fields from low-degree rational functions](https://arxiv.org/abs/2503.20982v2), ArXiv.
 
 ## Reviewer for Journals
 
   - [Applicable Algebra in Engineering, Communication and Computing](https://www.springer.com/journal/200)
   - [Cryptography and Communications](https://www.springer.com/journal/12095)
+  - [Designs, Codes and Cryptography](https://link.springer.com/journal/10623)
   - [Discrete Applied Mathematics](https://www.sciencedirect.com/journal/discrete-applied-mathematics)
   - [IEEE Transactions on Information Theory](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18)
   - [Journal of Algebra and Its Applications](https://www.worldscientific.com/worldscinet/jaa)
+  
 
 
 ## Participation in Schools/Workshops/Conferences:
