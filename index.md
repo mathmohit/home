@@ -54,7 +54,7 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 
 - Daniele Bartoli, Mohit Pal, Pantelimon Stănică, Tommaso Toccotelli, [A proof of a conjecture on trivariate permutations](https://arxiv.org/abs/2410.23097), ArXiv.
 
-
+- Kirpa Garg, Sartaj Ul Hasan, Chunlei Li, Hridesh Kumar, Mohit Pal, [Permutation polynomials over finite fields from low-degree rational functions] (https://arxiv.org/abs/2503.20982v2), ArXiv.
 
 ## Reviewer for Journals
 
