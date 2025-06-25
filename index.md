@@ -16,7 +16,7 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 - Jun'22-till date, Postdoctoral Fellow, [University of Bergen, Norway](https://www.uib.no/en).
 - Apr'22-May'22, Visiting Student, [Indian Statistical Institute Delhi, India](https://www.isid.ac.in/).
 - Dec'21-Mar'22, Project Fellow, [Indian Institute of Technology Jammu, India](https://www.iitjammu.ac.in/).
-- 2017-2018, Project Fellow, [Harish-Chandra Research Institute Allahabad, India](http://www.hri.res.in/).
+- Feb'17-Nov'17, Project Fellow, [Harish-Chandra Research Institute Allahabad, India](http://www.hri.res.in/).
 
 ## Educational Background:
 
