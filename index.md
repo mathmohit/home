@@ -95,10 +95,15 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 - [Daniele Bartoli](https://www.danielebartoli.org/), University of Perugia, Italy.
 - [Lilya Budaghyan](https://www.uib.no/en/persons/Lilya.Budaghyan), University of Bergen, Norway.
 - [Neranga Fernando](https://mathcs.holycross.edu/~nfernand/), College of the Holy Cross, USA.
+- [Kirpa garg](https://sites.google.com/view/kirpagarg/home?authuser=0), IIT Jammu, India.
 - [Sartaj Ul Hasan](https://sites.google.com/site/sartajulhasan/), IIT Jammu, India.
+- Hridesh Kumar, IIT Jammu, India.
+- [Chunlei Li](https://www4.uib.no/en/find-employees/Chunlei.Li), University of Bergen, Norway.
 - [Constanza Susana Riera](https://www.hvl.no/en/employee/?user=Constanza.Susana.Riera), Western Norway University of Applied Sciences, Norway.
 - [Pantelimon Stănică](https://faculty.nps.edu/pstanica/), Naval Postgraduate School, USA.
 - Tommaso Toccotelli, University of Perugia, Italy.
+
+
 
   
   ## Erdős Number:
