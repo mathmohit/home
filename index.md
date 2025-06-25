@@ -27,11 +27,13 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 
 ## Publication (in reverse chronological order):
 
+- Daniele Bartoli, Mohit Pal, Pantelimon Stănică, [A proof of a conjecture on permutation trinomials] _Cryptogr. Commun._ (2025). (To appear)
+
 - Mohit Pal, [On cryptographic properties of a class of power permutations in odd characteristic](https://doi.org/10.1007/978-3-031-81824-0_7), In: Petkova-Nikova, S., Panario, D. (eds) _Arithmetic of Finite Fields (WAIFI 2024)_. Lecture Notes in Computer Science, vol 15176, pp 99--115, Springer, Cham (2025).
   
-- Mohit Pal, Pantelimon Stănică, [A connection between the boomerang uniformity and the extended differential in odd characteristic and applications](https://doi.org/10.3934/amc.2024059), _Adv. Math. Commun._  (2025).
+- Mohit Pal, Pantelimon Stănică, [A connection between the boomerang uniformity and the extended differential in odd characteristic and applications](https://doi.org/10.3934/amc.2024059), _Adv. Math. Commun._  19(5) (2025) 1382--1403.
 
-- Lilya Budaghyan, Mohit Pal, [Arithmetization-oriented APN Permutations](https://doi.org/10.1007/s10623-024-01487-7), _Des. Codes Cryptogr._  (2024).
+- Lilya Budaghyan, Mohit Pal, [Arithmetization-oriented APN Permutations](https://doi.org/10.1007/s10623-024-01487-7), _Des. Codes Cryptogr._  93(4) (2025) 1067--1088.
 
 - Sartaj Ul Hasan, Mohit Pal, [Dembowski-Ostrom polynomials and Dickson polynomials](https://doi.org/10.3934/amc.2022068), _Adv. Math. Commun._ 18(4) (2024) 1084-1099.
 
@@ -52,7 +54,7 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 
 - Daniele Bartoli, Mohit Pal, Pantelimon Stănică, Tommaso Toccotelli, [A proof of a conjecture on trivariate permutations](https://arxiv.org/abs/2410.23097), ArXiv.
 
-- Daniele Bartoli, Mohit Pal, Pantelimon Stănică, [A proof of a conjecture on permutation trinomials](https://arxiv.org/abs/2410.22692), ArXiv.
+
 
 ## Reviewer for Journals
 
