@@ -31,7 +31,7 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 
 ## Publication (in reverse chronological order):
 
-- Daniele Bartoli, Mohit Pal, Pantelimon Stănică, [A proof of a conjecture on permutation trinomials](https://arxiv.org/abs/2410.22692) _Cryptogr. Commun._ (2025). (To appear)
+- Daniele Bartoli, Mohit Pal, Pantelimon Stănică, [A proof of a conjecture on permutation trinomials](https://doi.org/10.1007/s12095-025-00819-1) _Cryptogr. Commun._ (2025). (To appear)
 
 - Mohit Pal, [On cryptographic properties of a class of power permutations in odd characteristic](https://doi.org/10.1007/978-3-031-81824-0_7), In: Petkova-Nikova, S., Panario, D. (eds) _Arithmetic of Finite Fields (WAIFI 2024)_. Lecture Notes in Computer Science, vol 15176, pp 99--115, Springer, Cham (2025).
   
