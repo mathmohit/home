@@ -31,6 +31,8 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 
 ## Publication (in reverse chronological order):
 
+- Kirpa Garg, Sartaj Ul Hasan, Chunlei Li, Hridesh Kumar, Mohit Pal, [Permutation polynomials over finite fields from low-degree rational functions](https://arxiv.org/abs/2503.20982v2), _Adv. Math. Commun._ (To appear)
+
 - Daniele Bartoli, Mohit Pal, Pantelimon Stănică, [A proof of a conjecture on permutation trinomials](https://doi.org/10.1007/s12095-025-00819-1) _Cryptogr. Commun._ (2025). (To appear)
 
 - Mohit Pal, [On cryptographic properties of a class of power permutations in odd characteristic](https://doi.org/10.1007/978-3-031-81824-0_7), In: Petkova-Nikova, S., Panario, D. (eds) _Arithmetic of Finite Fields (WAIFI 2024)_. Lecture Notes in Computer Science, vol 15176, pp 99--115, Springer, Cham (2025).
@@ -57,8 +59,6 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 - Mohit Pal, [Some new classes of (almost) perfect c-nonlinear permutations](https://arxiv.org/abs/2208.01004), ArXiv.
 
 - Daniele Bartoli, Mohit Pal, Pantelimon Stănică, Tommaso Toccotelli, [A proof of a conjecture on trivariate permutations](https://arxiv.org/abs/2410.23097), ArXiv.
-
-- Kirpa Garg, Sartaj Ul Hasan, Chunlei Li, Hridesh Kumar, Mohit Pal, [Permutation polynomials over finite fields from low-degree rational functions](https://arxiv.org/abs/2503.20982v2), ArXiv.
 
 ## Reviewer for Journals
 
