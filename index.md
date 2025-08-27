@@ -31,7 +31,7 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 
 ## Publication (in reverse chronological order):
 
-- Kirpa Garg, Sartaj Ul Hasan, Chunlei Li, Hridesh Kumar, Mohit Pal, [Permutation polynomials with a few terms over finite fields](https://doi.org/10.3934/amc.2025040), _Adv. Math. Commun._ (To appear)
+- Kirpa Garg, Sartaj Ul Hasan, Chunlei Li, Hridesh Kumar, Mohit Pal, [Permutation polynomials with a few terms over finite fields](https://doi.org/10.3934/amc.2025040), _Adv. Math. Commun._ (2025). (To appear)
 
 - Daniele Bartoli, Mohit Pal, Pantelimon Stănică, [A proof of a conjecture on permutation trinomials](https://doi.org/10.1007/s12095-025-00819-1) _Cryptogr. Commun._ (2025). (To appear)
 
