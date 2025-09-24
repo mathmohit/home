@@ -14,7 +14,7 @@ I am currently a Visiting Scientist at the Indian Statistical Institute, Kolkata
 ## Work Experience:
 
 - Sep'25-till date, Visiting Scientist, [Indian Statistical Institute Kolkata, India](https://www.isical.ac.in/).
-- Jun'22-Aug'25 date, Postdoctoral Fellow, [University of Bergen, Norway](https://www.uib.no/en).
+- Jun'22-Aug'25, Postdoctoral Fellow, [University of Bergen, Norway](https://www.uib.no/en).
 - Apr'22-May'22, Visiting Student, [Indian Statistical Institute Delhi, India](https://www.isid.ac.in/).
 - Dec'21-Mar'22, Project Fellow, [Indian Institute of Technology Jammu, India](https://www.iitjammu.ac.in/).
 - Feb'17-Nov'17, Project Fellow, [Harish-Chandra Research Institute Allahabad, India](http://www.hri.res.in/).
