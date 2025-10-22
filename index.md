@@ -32,9 +32,9 @@ I am currently a Visiting Scientist at the Indian Statistical Institute, Kolkata
 
 ## Publication (in reverse chronological order):
 
-- Kirpa Garg, Sartaj Ul Hasan, Chunlei Li, Hridesh Kumar, Mohit Pal, [Permutation polynomials with a few terms over finite fields](https://doi.org/10.3934/amc.2025040), _Adv. Math. Commun._ (2025). (To appear)
+- Kirpa Garg, Sartaj Ul Hasan, Chunlei Li, Hridesh Kumar, Mohit Pal, [Permutation polynomials with a few terms over finite fields](https://doi.org/10.3934/amc.2025040), _Adv. Math. Commun._  (2025). (To appear)
 
-- Daniele Bartoli, Mohit Pal, Pantelimon Stănică, [A proof of a conjecture on permutation trinomials](https://doi.org/10.1007/s12095-025-00819-1) _Cryptogr. Commun._ (2025). (To appear)
+- Daniele Bartoli, Mohit Pal, Pantelimon Stănică, [A proof of a conjecture on permutation trinomials](https://doi.org/10.1007/s12095-025-00819-1) _Cryptogr. Commun._ 17 (2025) 1683-1701.
 
 - Mohit Pal, [On cryptographic properties of a class of power permutations in odd characteristic](https://doi.org/10.1007/978-3-031-81824-0_7), In: Petkova-Nikova, S., Panario, D. (eds) _Arithmetic of Finite Fields (WAIFI 2024)_. Lecture Notes in Computer Science, vol 15176, pp 99--115, Springer, Cham (2025).
   
